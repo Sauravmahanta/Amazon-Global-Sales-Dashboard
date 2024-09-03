@@ -1,4 +1,5 @@
 # Global-Superstore-Sales-Dashboard
+https://github.com/user-attachments/assets/235df73b-bbed-4d21-b561-58a0239d1cda  
 
 ## **Project Overview:**
 The GlobalSale Dashboard is an interactive and dynamic business intelligence tool developed using Power BI. This dashboard provides comprehensive insights into global sales data, helping stakeholders make informed decisions by visualizing key performance indicators (KPIs), trends, and patterns.  
