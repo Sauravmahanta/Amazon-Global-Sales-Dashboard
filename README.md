@@ -39,5 +39,5 @@ The GlobalSale Dashboard is an interactive and dynamic business intelligence too
 - Sales Forecasting: Predict future sales based on historical data and trends, helping in planning and resource allocation.
 - Scenario Analysis: Perform what-if analysis to evaluate the impact of different scenarios on sales and profitability.
   
-## **Conclusion**  
+## **Conclusion:**  
 The GlobalSale Dashboard is a powerful tool that provides valuable insights into global sales performance. By leveraging Power BI, this dashboard enables data-driven decision-making, helping businesses to optimize their operations, increase profitability, and stay competitive in the market.
